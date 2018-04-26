@@ -2,7 +2,11 @@
 
 Es necesario ejecutar ```npm install``` para las librerías.
 
-## Ejemplo:
+## Ejemplos:
 ```
 node app -d Madrid
+
+node app -d Barcelona
+
+node app -d "París, Francia"
 ```
